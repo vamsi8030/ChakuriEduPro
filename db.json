@@ -1,0 +1,30 @@
+{
+  "gts_user_project_details": [
+    {
+      "id": 1,
+      "gts_user_project_name": "Sensor Based Dual Arm Robo Device",
+      "gts_user_employment_type": "Full Time",
+      "gts_user_project_skill_ids": "Arm Technology and MEMS Sensor",
+      "gts_user_role_description": "My role in this project to code for working of sensors and moment for device. And also device modal design and tester cum developer",
+      "gts_user_role": "Team Member",
+      "gts_user_project_start_date": "2016-12-10",
+      "gts_user_project_end_date": "",
+      "gts_user_client": "KREST Technologies",
+      "gts_user_project_description": "Sensor based dual arm tele robotic smart walking devices and rehabiliation for paralasis person echo friendly device. This is very helpful to do work own self for those who are attacked by paralsis person.",
+      "gts_user_project_location": "Vijayawada",
+      "gts_user_team_size": "6"
+    }
+  ],
+  "gts_user_degree_details": [
+    {
+      "id": 1,
+      "gts_user_degree_name": "B Tech",
+      "gts_user_degree_institute": "KIET Institue, JNTUK",
+      "gts_user_degree_location": "Andhra Pradesh",
+      "gts_user_degree_start_date": "2014-10-14",
+      "gts_user_degree_end_date": "2018-12-04",
+      "gts_user_degree_marks_percentage": "60",
+      "gts_user_degree_grade": "B"
+    }
+  ]
+}
